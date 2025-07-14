@@ -15,7 +15,7 @@ This python package is written using PEP 8 guidelines.
 
 # Progamming language
 
-Python
+Jupyter notebook
 
 # Install
 This package is written using Python 3.13.
