@@ -18,7 +18,6 @@ This python package is written using PEP 8 guidelines.
 Jupyter notebook
 
 # Install
-This package is written using Python 3.13.
 
 Install the package using pip
 
